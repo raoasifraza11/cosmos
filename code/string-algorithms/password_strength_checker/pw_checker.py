@@ -1,7 +1,7 @@
 # coding=utf-8
 # Author: Vitor Ribeiro
 
-#This a program to check the security of passwords.
+# This a program to check the security of passwords.
 
 # Passwords must be at least 8 characters long.
 # Passwords must contain at least one uppercase letter and one number.
